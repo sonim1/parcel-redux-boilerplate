@@ -1,5 +1,5 @@
 # Parcel + Redux Boilerplate
-[Sample Site](https://parcel-redux.sonim1.com)
+[Sample Site](https://parcel-redux.netlify.com/)
 # 💬 Feature
 This Boilerplate using Parcel module bundler.
 And made the Redux Todo list based on Redux docs example.
@@ -21,6 +21,7 @@ yarn build
 
 # Sample Image
 ![](./Sample.png)
+[Sample Site](https://parcel-redux.netlify.com/)
 
 # References
 - [Parcel](https://parceljs.org/)
