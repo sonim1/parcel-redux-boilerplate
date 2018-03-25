@@ -6,7 +6,7 @@ import { grid as Grid } from "fancygrid-react";
 const TodoList = ({ todos, onTodoClick }) => {
     var myConfig = {
         width: 200,
-        height: 300,
+        height: 200,
         data: todos,
         columns: [
             {
