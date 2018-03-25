@@ -26,7 +26,7 @@ const TodoList = ({ todos, onTodoClick }) => {
     
     return (
         <div className="display">
-            <h1>To Do DISPLAY</h1>
+            <h1>To Do List</h1>
             <ul>
                 {" "}
                 {todos.map((todo, index) => (
