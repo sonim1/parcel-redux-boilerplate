@@ -20,7 +20,7 @@ yarn build
 ```
 
 # Sample Image
-![](./Sample.png)
+![](./Sample.jpg)
 [Sample Site](https://parcel-redux.netlify.com/)
 
 # References
