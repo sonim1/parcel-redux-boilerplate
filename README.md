@@ -1,5 +1,5 @@
 # Parcel + Redux Boilerplate
-[Example](https://parcel-redux.sonim1.com)
+[Sample Site](https://parcel-redux.sonim1.com)
 # 💬 Feature
 This Boilerplate using Parcel module bundler.
 And made the Redux Todo list based on Redux docs example.
